@@ -21,4 +21,5 @@ const styles = StyleSheet.create({
     }
 });
 
+// Export Component
 export default ComponentsScreen
