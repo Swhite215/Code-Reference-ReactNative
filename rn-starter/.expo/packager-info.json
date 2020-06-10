@@ -1,10 +1,10 @@
 {
-  "devToolsPort": 19002,
+  "devToolsPort": 19003,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 50891,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "packagerPid": 61043,
+  "expoServerNgrokUrl": "https://bs-te8.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.bs-te8.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 61068,
   "webpackServerPort": null
 }
