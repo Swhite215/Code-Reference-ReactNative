@@ -6,6 +6,7 @@ import ConsentScreen from "./src/screens/ConsentScreen";
 import PrepareDeviceScreen from "./src/screens/PrepareDeviceScreen";
 import SurveyScreen from "./src/screens/SurveyScreen";
 import WellnessScoreScreen from "./src/screens/WellnessScoreScreen";
+import ImageScreen from "./src/screens/ImageScreen";
 
 const navigator = createStackNavigator(
   {
@@ -15,6 +16,7 @@ const navigator = createStackNavigator(
     PrepareDevice: PrepareDeviceScreen,
     Survey: SurveyScreen,
     WellnessScore: WellnessScoreScreen,
+    Images: ImageScreen,
   },
   {
     initialRouteName: "Home",
