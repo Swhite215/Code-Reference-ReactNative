@@ -8,6 +8,7 @@ import SurveyScreen from "./src/screens/SurveyScreen";
 import WellnessScoreScreen from "./src/screens/WellnessScoreScreen";
 import ImageScreen from "./src/screens/ImageScreen";
 import CounterScreen from "./src/screens/CounterScreen";
+import ColorScreen from "./src/screens/ColorScreen";
 
 const navigator = createStackNavigator(
   {
@@ -19,6 +20,7 @@ const navigator = createStackNavigator(
     WellnessScore: WellnessScoreScreen,
     Images: ImageScreen,
     Counter: CounterScreen,
+    Color: ColorScreen,
   },
   {
     initialRouteName: "Home",
