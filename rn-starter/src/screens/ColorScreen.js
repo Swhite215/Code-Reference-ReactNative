@@ -4,7 +4,6 @@ import { Text, StyleSheet, View, Button, FlatList } from "react-native";
 // Component w/ Styles
 const ColorScreen = () => {
   const [colors, setColors] = useState([]);
-  console.log(colors);
   return (
     <View>
       <Button
